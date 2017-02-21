@@ -32,4 +32,4 @@
 		git add <file name>
 
 #### commit changes to master and include message #### if you don't write a message, press escape, type :wq then enter
-		git commit -m 'add new message here although -m and message are nor necessary'
+		git commit -m 'add new message here although -m and message are nor necessary''
